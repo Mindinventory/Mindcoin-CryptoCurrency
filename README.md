@@ -93,7 +93,7 @@ Please follow below steps to setup GUI wallet in your LINUX system:
 
 # LICENSE!
 
-Geofence is [MIT-licensed](https://github.com/mindinventory1/Geofence/blob/master/LICENSE).
+MindCoin is [MIT-licensed](https://github.com/mindinventory1/Geofence/blob/master/LICENSE).
      
 ## Let us know!
 We’d be really happy if you send us links to your projects where you use our component. Just send an email to sales@mindinventory.com And do let us know if you have any questions or suggestion regarding our work.
