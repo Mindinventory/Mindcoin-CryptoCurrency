@@ -1,8 +1,6 @@
 Mac OS X mindcoind build instructions
 ====================================
 
-
-
 Notes
 -----
 
